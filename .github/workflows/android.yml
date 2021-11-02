@@ -44,6 +44,6 @@ jobs:
       uses: actions/upload-artifact@v2.2.4
       with:
         name: app
-        path: app/build/outputs/apk/release/app-release.apk
+        path: app/build/outputs/apk/release
 
 #추가작업
